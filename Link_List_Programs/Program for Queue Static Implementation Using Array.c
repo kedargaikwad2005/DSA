@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 
-#define MAX 5
+#define MAX 7
 
 int Queue[MAX];
    int front;
